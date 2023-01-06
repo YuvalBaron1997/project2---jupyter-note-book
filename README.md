@@ -1,2 +1,1 @@
-# project2---jupyter-note-book
-Volcanic Eruption
+# project2-Volcano Eruption
